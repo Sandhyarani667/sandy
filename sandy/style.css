@@ -1,0 +1,50 @@
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:#f4f4f4;
+color:#333;
+}
+
+/* Header */
+header{
+background:#0f172a;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+header h1{
+margin:0;
+font-size:40px;
+}
+
+header p{
+font-size:18px;
+}
+
+/* Sections */
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+h2{
+color:#0f172a;
+border-bottom:2px solid #ddd;
+padding-bottom:10px;
+}
+
+/* Project Card */
+.project{
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Contact */
+#contact p{
+margin:8px 0;
+}
